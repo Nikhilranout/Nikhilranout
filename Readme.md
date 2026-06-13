@@ -164,16 +164,6 @@ I continuously explore new technologies, software architecture patterns, and clo
 
 ---
 
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nikhilranout/Nikhilranout/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 <div align="center">
