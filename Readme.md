@@ -31,36 +31,108 @@
 
 # ⚡ About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-```python
-class NikhilRanout:
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2500&pause=1000&color=22D3EE&width=700&lines=Python+Full+Stack+Developer;Django+Backend+Engineer;REST+API+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
 
-    role = [
-        "Python Full Stack Developer",
-        "Django Backend Engineer",
-        "REST API Developer",
-        "Software Engineer"
-    ]
+<br>
 
-    specialization = [
-        "Scalable Web Applications",
-        "REST API Engineering",
-        "RBAC Authentication",
-        "Stripe Payment Integration",
-        "Backend Optimization"
-    ]
+<div align="center">
 
-    currently_learning = [
-        "Docker",
-        "AWS",
-        "Kubernetes",
-        "Redis",
-        "System Design"
-    ]
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-Developer-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full_Stack-Engineer-8B5CF6?style=for-the-badge"/>
 
-    motto = "Build secure, scalable, production-ready systems."
-````
+</div>
+
+---
+
+Passionate about transforming ideas into **scalable digital products**, I am a **Python Full Stack Developer** and **Django Backend Engineer** with expertise in backend architecture, REST API development, database optimization, and modern web technologies.
+
+I specialize in building **secure**, **high-performance**, and **production-ready applications** that solve real-world business challenges. From e-commerce platforms and ERP systems to restaurant management solutions and fitness platforms, I focus on delivering software that is reliable, maintainable, and designed for long-term growth.
+
+My development philosophy combines **clean architecture**, **efficient database design**, **secure authentication systems**, and **exceptional user experiences**.
+
+---
+
+## 🚀 Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend Engineering
+
+🔹 Django & Django REST Framework  
+🔹 REST API Development  
+🔹 Authentication & Authorization  
+🔹 RBAC Systems  
+🔹 API Optimization  
+🔹 Database Design  
+
+</td>
+
+<td width="50%">
+
+### Full Stack Development
+
+🔹 Python  
+🔹 JavaScript  
+🔹 HTML5 & CSS3  
+🔹 Bootstrap  
+🔹 Responsive Design  
+🔹 UI Integration  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Professional Highlights
+
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212744286-9380e95b-c17b-4c6f-9d83-5d4f57c4e2f8.gif"/>
+
+✅ Developed **4+ Production-Ready Applications**
+
+⚡ Improved Backend Performance by **40%+**
+
+💳 Integrated **Stripe Payment Gateway**
+
+🔐 Designed Enterprise-Level **RBAC Systems**
+
+📊 Built Analytics & Reporting Dashboards
+
+🚀 Delivered Complete End-to-End Web Solutions
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,redis,react,nextjs"/>
+
+</div>
+
+---
+
+## 🎯 Mission
+
+> Building software that is scalable, secure, maintainable, and impactful.
+
+I continuously explore new technologies, software architecture patterns, and cloud-native solutions to create applications that deliver exceptional performance and business value.
+
+---
+
+<div align="center">
+
+### ⚡ "Great software is built with passion, optimized with experience, and scaled with vision."
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=3&section=footer"/>
+
+</div>
 
 <br>
 
@@ -87,26 +159,6 @@ class NikhilRanout:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,redis,react,nextjs"/>
-
-</div>
-
----
-
-# 🏆 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nikhilranout&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A855F7&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nikhilranout&theme=tokyonight&hide_border=true&background=020617&stroke=22D3EE&ring=A855F7&fire=10B981"/>
-
-<br><br>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilranout&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=FFFFFF"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilranout&bg_color=020617&color=FFFFFF&line=22D3EE&point=A855F7&area=true&hide_border=true"/>
 
 </div>
 
@@ -278,16 +330,12 @@ class NikhilRanout:
 
 ---
 
-# 🎓 Education
-
-<div align="center">
-
-| Degree | Institution                 | Duration       |
-| ------ | --------------------------- | -------------- |
-| MCA    | Chandigarh University       | 2024 - Present |
-| BCA    | Government College Hamirpur | 2021 - 2024    |
-
-</div>
+<h3 align = "center">Pac-Man  </h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhilranout/Nikhilranout/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhilranout/Nikhilranout/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nikhilranout/Nikhilranout/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -309,9 +357,30 @@ class NikhilRanout:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%" alt="Neon divider" />
+
+
+# 🏆 GitHub Analytics
 
 <div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nikhilranout&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A855F7&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nikhilranout&theme=tokyonight&hide_border=true&background=020617&stroke=22D3EE&ring=A855F7&fire=10B981"/>
+
+<br><br>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilranout&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=FFFFFF"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilranout&bg_color=020617&color=FFFFFF&line=22D3EE&point=A855F7&area=true&hide_border=true"/>
+
+</div>
+
+<div align="center">
+    
+---
 
 ## 🚀 Building scalable Django systems, clean APIs, and production-ready web applications.
 
